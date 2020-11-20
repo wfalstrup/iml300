@@ -2,21 +2,29 @@
 <html>
     <head>
         <title>Home Page</title>
-        <link rel="stylesheet" href="p1.css">
+        <link rel="stylesheet" href="style.css">
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="assets/p1.css" type="text/css" />
+        <link rel="stylesheet" href="assets/style.css" type="text/css" />
         <style>
-            .center {
-            padding: 70px 0;
-            text-align: center;
-            }
-        </style>
+            .container {
+                position: relative;
+                text-align: center;
+                color: white;
+}
+
+                .centered {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+}
+</style>
     </head>
     <body>
         <h3>In isolation there is only one place to go...</h3>
-        <div class="center">
-            <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg"/>
-            <a href="inward.html">Inward</a>
+        <div class="container">
+            <img src="box-blank" alt="Snow" style="width:100%;">
+            <div class="centered"><a href="inward.html">Inward</a></div>
         </div>
         
     
