@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+
+h3 {
+  color: #091857;
+  text-align: center;
+}
+
+h3 {
+  font-family: microgramma D;  
+  font-size: 25px;
+  color: #091857; 
+  line-height: 2em;
+  text-decoration: bold;
+  text-align: center;
+}
+
+h3 {
+    color: #ED595C;
+    
+}
+
+a {
+   font-size: 20px;
+    text-align: center; 
+}
