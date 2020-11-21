@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+
+h2 {
+  color: #091857;
+  text-align: center;
+  font-family: khmer mn;
+}
+
+h3 {
+  font-family: khmer mn;  
+  font-size: 25px;
+  color: #ED595C; 
+  text-decoration: bold;
+  text-align: center;
+}
+
+p {
+   font-family: khmer mn;
+    font-size: 10px;
+    text-align: center; 
+}
+
+a {
+   font-family: khmer mn;
+    font-size: 20px;
+    text-align: center; 
+}

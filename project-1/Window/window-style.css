@@ -1,0 +1,38 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+
+h2 {
+  color: #006E43;
+  text-align: center;
+  font-family: khmer mn;
+  font-size: 25px;
+    line-height: 2em;
+
+}
+
+h3 {
+  font-family: khmer mn;  
+  font-size: 25px;
+  color: #ED595C; 
+  line-height: 2em;
+  text-decoration: bold;
+  text-align: center;
+}
+
+a, p {
+   font-family: khmer mn;
+    font-size: 20px;
+    text-align: center; 
+}
+
+h1 {
+  font-family: khmer mn;  
+  font-size: 100px;
+  color: #ED595C; 
+  text-decoration: bold;
+  text-align: center;
+}
